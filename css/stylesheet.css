@@ -9,7 +9,9 @@ h1 {
     margin: 30px;
     text-align: center;
 }
-
+body {
+	background-color: MintCream;
+}
 .box {
     border: 1px solid black;
     background-color: #A5A5A5;
